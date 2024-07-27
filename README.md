@@ -21,4 +21,4 @@
 3.  点击【下载全部】；
 4.  下载完成后自动打开下载文件夹。
 
-![1](https://gitee.com/start1221/himalaya-download-release/images/1.png)
+![1](https://gitee.com/start1221/himalaya-download-release/blob/master/images/1.png)
