@@ -21,4 +21,4 @@
 3.  点击【下载全部】；
 4.  下载完成后自动打开下载文件夹。
 
-<img src="https://gitee.com/start1221/himalaya-download-release/blob/master/images/1.png"/>
+<img src="https://oscimg.oschina.net/oscnet/up-a84124d2f91fb2bd5727f8b463dea7813b7.jpg"/>
