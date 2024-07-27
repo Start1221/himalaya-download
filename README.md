@@ -12,7 +12,7 @@
 #### 安装教程
 
 1.  直接下载exe安装包即可直接使用。
-2.  下载地址：[V2024.05](https://gitee.com/start1221/himalaya-download-release/tree/master/release)
+2.  下载地址：[V2024.06](https://gitee.com/start1221/himalaya-download-release/tree/master/release)
 
 #### 使用说明
 
