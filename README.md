@@ -1,37 +1,24 @@
 # 喜马拉雅音频批量下载器（发行版）
 
 #### 介绍
-喜马拉雅音频批量下载器（发行版）
+喜马拉雅音频批量下载器（发行版）支持免费音频批量下载，VIP音频自行解决。
 
 #### 软件架构
-软件架构说明
+本软件采用Aardio编写，语言比较小众，但编写打包很小。
+
+这里只放打包好的exe运行包，不方便放源码。
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  直接下载exe安装包即可直接使用。
+2.  下载地址：[V2024.05](https://gitee.com/start1221/himalaya-download-release/release)
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  复杂喜马拉雅专辑URL，如：https://www.ximalaya.com/album/43850962
+2.  点击【分析专辑】；
+3.  点击【下载全部】；
+4.  下载完成后自动打开下载文件夹。
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![1](https://gitee.com/start1221/himalaya-download-release/images/1.png)
