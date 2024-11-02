@@ -2,7 +2,9 @@
 
 ## 软件名称
 
-喜马拉雅VIP音频批量下载器2024.10.15
+START喜马拉雅VIP音频MP3批量下载器V2024.10.30（第一代）
+
+START喜马拉雅VIP音频M4A批量下载器V2024.10.31（第二代）
 
 ## 应用平台
 
@@ -28,11 +30,17 @@
 
 1. 官方接口限制1分钟下载30个音频，针对限制增加自动下载任务；
 
+2024年10月31日更新日志：
+
+1. 新增M4A格式下载软件；
+
+2. 发现MP3下载款出现会员音频无法下载问题：xm-sign待破解；	
+
 ## 安装教程
 
 1.  直接下载exe安装包即可直接使用；
-2.  开源社区下载地址：[V2024.10.15](https://gitee.com/start1221/himalaya-download-release/tree/master/release)
-3.  网盘下载地址:https://wwqx.lanzoul.com/b00tapgf1i
+2.  主下载地址下载地址：[123网盘下载地址](https://www.123pan.com/s/2tqOTd-Ma85v)
+3.  备用下载地址:https://wwqx.lanzoul.com/b00tapgf1i
     软件提取密码:5t0a
 
 #### 使用说明
