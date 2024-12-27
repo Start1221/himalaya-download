@@ -1,0 +1,2 @@
+cd nginx
+nginx.exe
