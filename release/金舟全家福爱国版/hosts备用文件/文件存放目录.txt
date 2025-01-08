@@ -1,4 +1,0 @@
-如果运行成功了，但是登陆金舟软件还没有提示提权成功
-需要将hosts文件，手动拷贝到以下文件夹下：
-
-C:\Windows\System32\drivers\etc
